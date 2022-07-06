@@ -1,0 +1,22 @@
+{
+  "name": "qaweb-backend",
+  "version": "1.0.0",
+  "description": "Backend for question and answer website",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/parneetsingh022/QAwebsite.git"
+  },
+  "author": "Parneet Singh Sidhu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/parneetsingh022/QAwebsite/issues"
+  },
+  "homepage": "https://github.com/parneetsingh022/QAwebsite#readme",
+  "dependencies": {
+    "nodemon": "^2.0.19"
+  }
+}
